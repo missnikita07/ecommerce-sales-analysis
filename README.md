@@ -1,50 +1,38 @@
-**E-Commerce Sales Analysis**
+# E-Commerce Sales Analysis
 
+## Project Overview
+This project analyzes E-Commerce sales data using Excel, SQL, Python, and Power BI to identify sales trends, profitability, regional performance, and category-level insights.
 
+## Tools Used
+- Excel
+- MySQL
+- Python (Pandas, Matplotlib)
+- Power BI
 
-* **Tools Used**
+## Dataset
+Sample Superstore Dataset
 
-\- Excel
+## Project Workflow
+1. Data Cleaning using Excel
+2. Data Analysis using SQL
+3. Exploratory Data Analysis using Python
+4. Interactive Dashboard Creation using Power BI
 
-\- SQL
+## Key Insights
+- Technology generated the highest sales.
+- West region achieved the highest revenue.
+- California was the top-performing state.
+- Technology category generated the highest profit.
 
-\- Python
+## Files Included
+- SampleSuperstore.csv
+- SQL_Queries.sql
+- sales_analysis.py
+- Ecommerce_Sales_Analysis.pbix
+- Dashboard Screenshots
 
-\- Power BI
+## Dashboard Preview
+See dashboard screenshots uploaded in this repository.
 
-
-
-* **Project Objective**
-
-Analyze e-commerce sales data to identify sales trends, profit performance, regional performance, and top-performing categories.
-
-
-
-* **Key Insights**
-
-\- Technology generated highest sales.
-
-\- West region generated highest revenue.
-
-\- California was the top-performing state.
-
-\- Technology category generated highest profit.
-
-
-
-* **Dashboard**
-
-Power BI dashboard included in project.
-
-
-
-* **Files**
-
-\- Excel Analysis
-
-\- SQL Queries
-
-\- Python Analysis
-
-\- Power BI Dashboard
-
+## Author
+Nikita Kumari
